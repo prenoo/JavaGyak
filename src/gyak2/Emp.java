@@ -9,7 +9,7 @@ public class Emp {
 		this.fiz = fiz;
 	}
 	
-	public String getNev() {
+	public String getNev() {	
 		return nev;
 	}
 	
